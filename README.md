@@ -35,3 +35,10 @@ You can deploy it easily on Remix or Hardhat for learning, testing, or personal 
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+# 🪙 MyCryptoToken  
+**Category:** Crypto • Blockchain • Solidity • Web3  
+
+MyCryptoToken (MCT) is a blockchain-based ERC-20 token written in Solidity and deployed to EVM-compatible networks.  
+This repository is part of my Web3 developer learning and contribution journey.
+
