@@ -31,7 +31,7 @@ You can deploy it easily on Remix or Hardhat for learning, testing, or personal 
 - **Symbol:** MCT  
 - **Initial Supply:** 1,000,000 MCT  
 
----
+----
 
 ## 📜 License
 This project is licensed under the MIT License.
